@@ -8,7 +8,7 @@ This Notebook Collection is an overview of the work that has been done regarding
 
 This Repo works with PUBLIC dataset of the Indiana University Chest X-ray (https://openi.nlm.nih.gov/detailedresult?img=CXR111_IM-0076-1001&req=4)
 
-Using a subsample of the data,(pre-processed) .pkl files and also all relevant IDs, raw-text and labels, vocab.json(needed for text modeling) can be found via the link:
+Using a subsample of the data,(pre-processed) .pkl files and also all relevant IDs, raw-text and labels, vocab.json(needed for text modeling) can be found via the link: https://drive.google.com/open?id=1b2zUJVCEY1GY8s_TOQE4UssumP1OfH6Y
 
 This Repo is just a demo of the original short paper, which can also be found in the Repo.
 
